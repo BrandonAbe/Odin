@@ -1,1 +1,2 @@
-This is random text added. Hello, world!
+This is random text added.
+ Hello, world!
